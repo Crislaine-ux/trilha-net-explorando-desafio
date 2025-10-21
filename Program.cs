@@ -1,5 +1,5 @@
-﻿using System.Text;
-using DesafioProjetoHospedagem.Models;
+﻿using System.Text; 
+ using DesafioProjetoHospedagem.Models;
 
 Console.OutputEncoding = Encoding.UTF8;
 
